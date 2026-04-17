@@ -1,0 +1,4 @@
+dev\danko\jdbcexample\model\Author.class
+dev\danko\jdbcexample\JdbcExampleApplication.class
+dev\danko\jdbcexample\model\Book.class
+dev\danko\jdbcexample\old\BookJdbcExample.class
